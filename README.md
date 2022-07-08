@@ -6,7 +6,7 @@ Use QR code to connect to Phantom wallet.
 
 Solana can handle 2,110 TPS (transactions per second) making it ideal for transactions of any size and throughput.
 
-<img src="https://github.com/schm00g/.png">
+<img src="https://github.com/schm00g/solana-payments/blob/master/public/ui.png">
 
 ## Scripts
 
